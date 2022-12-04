@@ -5,3 +5,14 @@ yo chai maile thapeko, second time 10:15 PM 12/4/2022
  aba feri yo maile lekheko10:18 PM 12/4/2022 
 
 this is final one. Goodnight juniorrr
+git status
+git init
+git add .
+git commit -m "message"
+git remote add origin link 
+git push -u origin master: first commit ma matra yo duita line lekhne
+git push: aru commit haru push garna lai
+git pull:github ma vako code tana lai
+git log -- oneline:commit haru ek line ma jankaru=i dina
+
+ 
